@@ -1,5 +1,5 @@
 # norris_capstone
-MLB expansion team project
+MLB EXPANSION PROJECT
 
 SUMMARY
 
