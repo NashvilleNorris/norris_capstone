@@ -11,12 +11,12 @@ QUESTION
 This project will analyst the 10 cities compared to average statistics from the 30 cities that currently have MLB teams. By utilizing census data from cities with MLB teams, I will discover common characteristics across several categories and use them as benchmarks to see how the 10 cities that don’t have teams compare. Hopefully it will help in predicting where the league will attempt to put the next 2 teams when it expands.
 
 DATA SOURCES
-1.	Census Reporter Census Reporter: Making Census Data Easy to Use
-2.	Government Census Census.gov
-3.	Baseball Reference MLB Stats, Scores, History, & Records | Baseball-Reference.com
-4.	Statista MLB fans in the U.S. by ethnicity 2020 | Statista
-5.	SponsorPulse MLB Fan Demographics: Who’s engaging with the MLB in America | SponsorPulse
-6.	ESPN All 30 MLB Teams: Location, Stadium and Website Information | MLB.com
+1.	Census Reporter - Census Reporter: Making Census Data Easy to Use
+2.	Government Census - Census.gov
+3.	Baseball Reference - MLB Stats, Scores, History, & Records | Baseball-Reference.com
+4.	Statista - MLB fans in the U.S. by ethnicity 2020 | Statista
+5.	SponsorPulse - MLB Fan Demographics: Who’s engaging with the MLB in America | SponsorPulse
+6.	ESPN - All 30 MLB Teams: Location, Stadium and Website Information | MLB.com
 
 PROBLEMS AND HURDLES
 
