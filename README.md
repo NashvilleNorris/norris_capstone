@@ -1,4 +1,4 @@
-# norris_capstone
+﻿# norris_capstone
 MLB EXPANSION PROJECT
 
 SUMMARY
@@ -27,7 +27,7 @@ TECHNOLOGIES USED
 
 1.	Excel – Initially used Excel to order and narrow down the data that I needed and got rid of the information that was excess.
 2.	Python – Utilized Python to make charts to visually represent the data, specifically within a Jupyter Notebook.
-3.	PowerBI - Upon completion of normalization and analysis, PowerBI was utilized to create visualizations and an interactive dashboard map.
+3.	PowerBI - Upon completion of normalization and analysis, PowerBI was utilized to create visualizations and an interactive dashboard map. https://app.powerbi.com/view?r=eyJrIjoiMmU3ZjMyZWItNDBmZC00MDExLTg0MGYtMjk3YjFmNTUzZTYzIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 CONCLUSION
 
