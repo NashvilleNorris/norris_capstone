@@ -26,7 +26,7 @@ Also, there are other factors that I couldn’t take into account that help dete
 TECHNOLOGIES USED
 
 1.	Excel – Initially used Excel to order and narrow down the data that I needed and got rid of the information that was excess.
-2.	Python – Utilized Python to make charts to visually represent the data, specifically within a Jupyter Notebook.
+2.	Python – Utilized Python to make charts to visually represent the data, specifically within a Jupyter Notebook. https://app.powerbi.com/groups/me/reports/dfa6c57d-8149-4d6e-a6b4-24f0d45fdbfb/ReportSection5cb3244f5cd904d56030?experience=power-bi
 3.	PowerBI - Upon completion of normalization and analysis, PowerBI was utilized to create visualizations and an interactive dashboard map.
 
 CONCLUSION
